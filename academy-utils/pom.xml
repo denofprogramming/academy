@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>com.teachingacademy.academy</groupId>
 		<artifactId>academy-parent</artifactId>
-		<version>1.0</version>
+		<version>1.0.1-SNAPSHOT</version>
 	</parent>
 	<artifactId>academy-utils</artifactId>
 </project>
