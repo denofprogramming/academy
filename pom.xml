@@ -83,11 +83,10 @@
 		<!-- <site> <id>apache</id> <url>dav:http://127.0.0.1/sites/</url> </site> -->
 	</distributionManagement>
 
-
 	<scm>
-		<connection>git@github.com:denofprogramming/academy.git</connection>
-		<url>git@github.com:denofprogramming/academy.gi</url>
-		<developerConnection>git@github.com:denofprogramming/academy.git</developerConnection>
+		<connection>scm:git:git@github.com:denofprogramming/git-demo.git</connection>
+		<url>scm:git:git@github.com:denofprogramming/git-demo.git</url>
+		<developerConnection>scm:git:git@github.com:denofprogramming/git-demo.git</developerConnection>
 	</scm>
 
 
