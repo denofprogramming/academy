@@ -1,4 +1,5 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.teachingacademy.academy</groupId>
 	<artifactId>academy-parent</artifactId>
@@ -83,11 +84,11 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git:git@github.com:denofprogramming/git-demo.git</connection>
-		<url>scm:git:git@github.com:denofprogramming/git-demo.git</url>
-		<developerConnection>scm:git:git@github.com:denofprogramming/git-demo.git</developerConnection>
-	  <tag>HEAD</tag>
-  </scm>
+		<connection>scm:git:git@github.com:denofprogramming/academy.git</connection>
+		<url>scm:git:git@github.com:denofprogramming/academy.git</url>
+		<developerConnection>scm:git:git@github.com:denofprogramming/academy.git</developerConnection>
+		<tag>HEAD</tag>
+	</scm>
 
 
 	<build>

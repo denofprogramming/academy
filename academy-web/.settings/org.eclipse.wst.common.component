@@ -4,22 +4,22 @@
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
-        <dependent-module archiveName="academy-student-1.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/academy-student/academy-student">
+        <dependent-module archiveName="academy-student-1.0.2-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/academy-student/academy-student">
             <dependency-type>uses</dependency-type>
         </dependent-module>
-        <dependent-module archiveName="academy-student-interface-1.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/academy-student-interface/academy-student-interface">
+        <dependent-module archiveName="academy-student-interface-1.0.2-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/academy-student-interface/academy-student-interface">
             <dependency-type>uses</dependency-type>
         </dependent-module>
-        <dependent-module archiveName="academy-user-details-1.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/academy-user-details/academy-user-details">
+        <dependent-module archiveName="academy-user-details-1.0.2-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/academy-user-details/academy-user-details">
             <dependency-type>uses</dependency-type>
         </dependent-module>
-        <dependent-module archiveName="academy-user-details-interface-1.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/academy-user-details-interface/academy-user-details-interface">
+        <dependent-module archiveName="academy-user-details-interface-1.0.2-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/academy-user-details-interface/academy-user-details-interface">
             <dependency-type>uses</dependency-type>
         </dependent-module>
-        <dependent-module archiveName="academy-shared-1.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/academy-shared/academy-shared">
+        <dependent-module archiveName="academy-shared-1.0.2-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/academy-shared/academy-shared">
             <dependency-type>uses</dependency-type>
         </dependent-module>
-        <dependent-module archiveName="academy-user-details-repository-1.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/academy-user-details-repository/academy-user-details-repository">
+        <dependent-module archiveName="academy-user-details-repository-1.0.2-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/academy-user-details-repository/academy-user-details-repository">
             <dependency-type>uses</dependency-type>
         </dependent-module>
         <property name="java-output-path" value="/academy-web/target/classes"/>
