@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.teachingacademy.academy</groupId>
 	<artifactId>academy-parent</artifactId>
-	<version>1.0.2</version>
+	<version>1.0.3-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<description>Parent projects for all Teaching Academy projects.</description>
 	<organization>
@@ -86,7 +86,7 @@
 		<connection>scm:git:git@github.com:denofprogramming/academy.git</connection>
 		<url>scm:git:git@github.com:denofprogramming/academy.git</url>
 		<developerConnection>scm:git:git@github.com:denofprogramming/academy.git</developerConnection>
-		<tag>v1.0.2</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 
