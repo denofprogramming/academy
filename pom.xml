@@ -86,7 +86,7 @@
 
 	<scm>
 		<connection>git@github.com:denofprogramming/academy.git</connection>
-		<url>https://github.com/denofprogramming/academy</url>
+		<url>git@github.com:denofprogramming/academy.gi</url>
 		<developerConnection>git@github.com:denofprogramming/academy.git</developerConnection>
 	</scm>
 
