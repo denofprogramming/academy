@@ -83,9 +83,9 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git:git@github.com:denofprogramming/git-demo.git</connection>
-		<url>scm:git:git@github.com:denofprogramming/git-demo.git</url>
-		<developerConnection>scm:git:git@github.com:denofprogramming/git-demo.git</developerConnection>
+		<connection>scm:git:git@github.com:denofprogramming/academy.git</connection>
+		<url>scm:git:git@github.com:denofprogramming/academy.git</url>
+		<developerConnection>scm:git:git@github.com:denofprogramming/academy.git</developerConnection>
 	  <tag>v1.0.1</tag>
   </scm>
 
