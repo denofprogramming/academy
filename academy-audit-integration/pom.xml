@@ -3,7 +3,7 @@
   <parent>
     <groupId>com.teachingacademy.academy</groupId>
     <artifactId>academy-parent</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
   </parent>
   <artifactId>academy-audit-integration</artifactId>
   <description>Audit Integration Test Module for the Teaching Academy project.</description>
