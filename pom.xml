@@ -4,7 +4,8 @@
 	<artifactId>academy-parent</artifactId>
 	<version>1.0.3-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<description>Parent projects for all Teaching Academy projects.</description>
+	<name>Teaching Academy Parent</name>
+	<description>Teaching Academy Application - Parent Module</description>
 	<organization>
 		<name>denOfProgramming</name>
 		<url>denofprogramming.com</url>
@@ -355,5 +356,5 @@
 			</build>
 		</profile>
 	</profiles>
-
+	
 </project>

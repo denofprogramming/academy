@@ -1,4 +1,5 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>com.teachingacademy.academy</groupId>
@@ -6,10 +7,12 @@
 		<version>1.0.3-SNAPSHOT</version>
 	</parent>
 	<artifactId>academy-registration-integration</artifactId>
+	<name>Registration Integration</name>
+	<description>Teaching Academy Registration Integration Tests</description>
 
 	<dependencies>
 		<dependency>
-<groupId>${project.groupId}</groupId>
+			<groupId>${project.groupId}</groupId>
 			<artifactId>academy-registration-interface</artifactId>
 		</dependency>
 		<dependency>
@@ -41,14 +44,9 @@
 			<groupId>${project.groupId}</groupId>
 			<artifactId>academy-courses-repository</artifactId>
 		</dependency>
-<!-- 		<dependency>
-			<groupId>${project.groupId}</groupId>
-			<artifactId>academy-audit</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>${project.groupId}</groupId>
-			<artifactId>academy-audit-repository</artifactId>
-		</dependency> -->
+		<!-- <dependency> <groupId>${project.groupId}</groupId> <artifactId>academy-audit</artifactId> 
+			</dependency> <dependency> <groupId>${project.groupId}</groupId> <artifactId>academy-audit-repository</artifactId> 
+			</dependency> -->
 
 		<dependency>
 			<groupId>org.springframework</groupId>

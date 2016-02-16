@@ -6,7 +6,9 @@
 		<version>1.0.3-SNAPSHOT</version>
 	</parent>
 	<artifactId>academy-audit-repository</artifactId>
-
+	<name>Audit Repository</name>
+	<description>Teaching Academy Audit Repository</description>
+	
 	<dependencies>
 		<dependency>
 			<groupId>${project.groupId}</groupId>

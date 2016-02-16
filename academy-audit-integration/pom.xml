@@ -7,4 +7,5 @@
   </parent>
   <artifactId>academy-audit-integration</artifactId>
   <description>Audit Integration Test Module for the Teaching Academy project.</description>
+  <name>Audit Integration</name>
 </project>

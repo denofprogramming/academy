@@ -6,8 +6,8 @@
 		<version>1.0.3-SNAPSHOT</version>
 	</parent>
 	<artifactId>academy-courses</artifactId>
-
-	<description>Course Maintenance for Academy's</description>
+	<name>Courses Implementation</name>
+	<description>Teaching Academy Courses Implementation</description>
 
 	<dependencies>		
 		<dependency>

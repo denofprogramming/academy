@@ -6,6 +6,8 @@
 		<version>1.0.3-SNAPSHOT</version>
 	</parent>
 	<artifactId>academy-user-details-repository</artifactId>
+	<name>User Details Repository</name>
+	<description>Teaching Academy User Details Repository</description>
 
 	<dependencies>
 		<dependency>

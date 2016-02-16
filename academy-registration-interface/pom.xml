@@ -6,6 +6,9 @@
 		<version>1.0.3-SNAPSHOT</version>
 	</parent>
 	<artifactId>academy-registration-interface</artifactId>
+	<name>Registration Interfaces</name>
+	<description>Teaching Academy Registration Interfaces</description>
+
 
 	<dependencies>
 		<dependency>

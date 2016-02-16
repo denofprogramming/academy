@@ -6,7 +6,8 @@
 		<version>1.0.3-SNAPSHOT</version>
 	</parent>
 	<artifactId>academy-user-details</artifactId>
-	<description>User Details for Academy's</description>
+	<name>User Details Implementation</name>
+	<description>Teaching Academy User Details Implementation</description>
 
 	<dependencies>
 		<dependency>

@@ -6,12 +6,6 @@
 		<version>1.0.3-SNAPSHOT</version>
 	</parent>
 	<artifactId>academy-shared</artifactId>
-
-<!-- 	<dependencies>
-		<dependency>
-			<groupId>${project.groupId}</groupId>
-			<artifactId>academy-utils</artifactId>
-		</dependency>
-	</dependencies> -->
-
+	<name>Shared Components</name>
+	<description>Teaching Academy Shared Components</description>
 </project>
