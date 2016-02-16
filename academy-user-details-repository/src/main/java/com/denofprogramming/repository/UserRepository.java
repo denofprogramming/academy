@@ -18,7 +18,7 @@ public class UserRepository implements UserRepositoryInterface{
 		
 		final User newUser = new User();
 		newUser.setId(domain.getId());
-		newUser.setName("Jack Sparrow");
+		newUser.setName("Jim Sparrow");
 		newUser.setAge(30);
 		
 		logger.info("Exiting UserRepository->read with:" + newUser);

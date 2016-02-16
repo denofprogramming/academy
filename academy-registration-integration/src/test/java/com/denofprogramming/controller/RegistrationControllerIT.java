@@ -25,7 +25,7 @@ public class RegistrationControllerIT {
 	
 	
 	@Test
-	public void readRegistrationTest(){
+	public void readRegistrationIT(){
 		final Course course = new Course();
 		course.setId(Long.valueOf("101"));
 		final Student student = new Student();
@@ -36,7 +36,7 @@ public class RegistrationControllerIT {
 		
 		final Registration returnRegistration = registrationController.read(registration);
 		assertNotNull("returnRegistration should not be null", returnRegistration);
-		assertTrue("Registration student name is not correct", returnRegistration.getStudent().getName().equals("Jack Sparrow"));
+		assertTrue("Registration student name is not correct", returnRegistration.getStudent().getName().equals("Jim Sparrow"));
 		assertTrue("Registration course name is not correct", returnRegistration.getCourse().getName().equals("Spring101"));
 		assertNotNull("return Registration Date should not be null", returnRegistration.getRegisteredDate());
 	}
