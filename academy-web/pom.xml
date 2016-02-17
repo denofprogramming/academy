@@ -6,7 +6,6 @@
 		<version>2.0.1-SNAPSHOT</version>
 	</parent>
 	<artifactId>academy-web</artifactId>
-	<version>2.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>AcademyWebApp</name>
 	<description>Teaching Academy Web Application</description>
@@ -22,7 +21,7 @@
 				<artifactId>maven-war-plugin</artifactId>
 				<configuration>
 					<!-- first priority for the WAR name -->
-					<!-- <warName>academy-web</warName> -->
+					<warName>academy-web</warName>
 				</configuration>
 			</plugin>
 		</plugins>
